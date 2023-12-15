@@ -1,0 +1,1 @@
+This Github folder contains the required files for the assignment PART-1  such as the Logic of the code, the code snippet and the actual output of the code. The code is succesfully executed and submitted for your reference.
